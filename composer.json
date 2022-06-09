@@ -1,0 +1,35 @@
+{
+    "name": "simplepack/settings",
+    "keywords": [
+        "settings",
+        "persistent settings",
+        "laravel"
+    ],
+    "description": "Persistent settings package for Laravel framework.",
+    "authors": [
+        {
+            "name": "Povilas Stankevičius",
+            "email": "povilastech@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.3|^8.0",
+        "illuminate/support": "^8.0",
+        "illuminate/console": "^8.0",
+        "illuminate/database": "^8.0",
+        "illuminate/filesystem": "^8.0"
+    },
+    "require-dev": {
+        "mockery/mockery": "0.9.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Krucas\\Settings\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
