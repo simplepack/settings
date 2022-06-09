@@ -1,10 +1,10 @@
-# Persistent Settings for Laravel 5
+# Persistent Settings for Laravel 9
 
 [![Build Status](https://travis-ci.org/edvinaskrucas/settings.png?branch=master)](https://travis-ci.org/edvinaskrucas/settings)
 
 ---
 
-Persistent settings package for Laravel 5.
+Persistent settings package for Laravel 8.
 
 ---
 
