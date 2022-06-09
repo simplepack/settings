@@ -1,4 +1,4 @@
-# Persistent Settings for Laravel 9
+# Persistent Settings for Laravel 8
 
 [![Build Status](https://travis-ci.org/edvinaskrucas/settings.png?branch=master)](https://travis-ci.org/edvinaskrucas/settings)
 
